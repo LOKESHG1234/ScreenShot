@@ -1,0 +1,5 @@
+pyautogui
+os
+tempfile
+smtplib
+time
